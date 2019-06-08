@@ -1,0 +1,9 @@
+Design & configure a sample n/w model, collect statistics & analyze n/w performance :-
+
+1.) N/w topology
+2.) Scenario (interaction b/w i/p & o/p data)
+3.) N/w parameters (Simulation time, frames generated, MAC protocol used etc.)
+4.) N/w performance metrics (Throughput, frames dropped, etc.)
+
+
+(Select any topology, make a scenario and answer the following questions with respect to that)
